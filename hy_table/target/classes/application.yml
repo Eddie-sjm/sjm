@@ -1,0 +1,15 @@
+server:
+  port: 12000
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/hychina?serverTimezone=CST
+    username: root
+    password: 123456
+  mvc:
+    date-format: yyyy-MM-dd
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true

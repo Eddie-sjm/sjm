@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hy_table_port/hy_table_port.iml" filepath="$PROJECT_DIR$/../hy_table_port/hy_table_port.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../layuimini-master/layuimini-master.iml" filepath="$PROJECT_DIR$/../layuimini-master/layuimini-master.iml" />
+    </modules>
+  </component>
+</project>
